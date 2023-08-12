@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrea Lopez Rodriguez"
-  avatar           : "profile.png"
+  avatar           : "circularAndreaLopez.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "Berkeley, California"
   employer         :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "andreanuclear"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
