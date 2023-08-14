@@ -11,6 +11,7 @@ main:
 
   - title: "CV"
     url: /cv/
+  # url: /files/Andrea_Lopez_CV.pdf
     
   #- title: "Portfolio"
   #  url: /portfolio/
