@@ -5,7 +5,7 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-excerpt: "App Inventor, GestionDesechosR.<img src="images/demo.gif?raw=true"/>"
+excerpt: "App Inventor, GestionDesechosR.<img src='images/demo.gif?raw=true'/>"
 ---
 
 
