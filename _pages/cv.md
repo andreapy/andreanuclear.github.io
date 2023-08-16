@@ -1,6 +1,6 @@
 ---
 title: "Solid Waste Management"
-excerpt: "App Inventor, GestionDesechosR.<br/><img src='images/demo.gif?raw=true'/>"
+excerpt: "App Inventor, GestionDesechosR.<br/><img src='images/demo.gif'>"
 ---
 
 
