@@ -1,11 +1,12 @@
 ---
 layout: archive
 title: "Solid Waste Management"
+excerpt: "App Inventor, GestionDesechosR."
 permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-excerpt: "App Inventor, GestionDesechosR."
+
 ---
 
 
