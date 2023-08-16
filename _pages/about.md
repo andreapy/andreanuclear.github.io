@@ -18,6 +18,7 @@ Portfolio
 ### Nuclear 
 
 [Solid Waste Management](/cv)
+
 <img src="images/Logo.png?raw=true" alt="Logo" width="300" height="300"/>
 
 
