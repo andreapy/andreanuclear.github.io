@@ -12,10 +12,8 @@ I am currently (August 2023) taking the course: "Internal Dosimetry in Radiometa
 A Practical Implementation Perspective.", which is being conducted within the framework of the International Atomic Energy Agency (IAEA) Project RLA 6091, in conjunction with the Medical Physics and Bioengineering Committee of ALASBIMN.
 
 
-
-## Portfolio
-
----
+Portfolio
+======
 
 ### Nuclear 
 
