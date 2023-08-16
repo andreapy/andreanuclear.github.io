@@ -5,9 +5,11 @@ permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
-excerpt: "App Inventor, GestionDesechosR.<img src='images/demo.gif?raw=true'/>"
+excerpt: "App Inventor, GestionDesechosR."
 ---
 
+
+![Solid Waste Management](/images/demo.gif)
 
 Introducing an application designed for the management of hospital radioactive solid waste, developed using MIT's App Inventor platform. This application has been crafted in accordance with the guidelines set by the Colombian Ministry of Mines and Energy, which adhere to the IAEA's TECDOC 1000 document from 1998 and the WHO's 'Safe Management of Wastes from Healthcare Activities' report of 1999.
 
